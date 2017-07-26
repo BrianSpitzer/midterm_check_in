@@ -1,6 +1,6 @@
 # Midterm Check In
 
- - Please fork this repo to check in for the midterm. This is to help us know who is here, since some students requested to attend a section for which they are not enrolled.
+ - Please fork this repo to check in for the midterm. This is to help us know who is here.
  - Just click the "Fork" button in the top-right; you don't have to do anything else.
     - **If you haven't clicked the button by 6:02pm**, you'll likely have to come up front and give me your GitHub username individually.
  - In a moment, navigate back to https://github.com/appdevsummer17 and refresh, or check your inbox.
